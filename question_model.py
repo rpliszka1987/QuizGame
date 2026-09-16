@@ -4,5 +4,3 @@ class Question:
         self.answer = q_answer
 
 
-my_q = Question("Is your name John", "True")
-print(my_q.text)
